@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: proyectdevops-fullstack-jenkins
-          image: aacp9/DevopsTestMerge       
+          image: aacp9/devops-integracion       
           ports:
             - containerPort: 9090
               name: proyectdevops  # updated port name
