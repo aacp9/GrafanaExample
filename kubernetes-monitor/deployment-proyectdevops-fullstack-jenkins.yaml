@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: proyectdevops-fullstack-jenkins
-          image: mramoscli/projectdevops       
+          image: aacp9/DevopsTestMerge       
           ports:
             - containerPort: 9090
               name: proyectdevops  # updated port name
