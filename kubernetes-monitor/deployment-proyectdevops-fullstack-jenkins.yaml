@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: proyectdevops-fullstack-jenkins
-          image: aacp9/docker-repository2       
+          image: aacp9/repository_app-crud
           ports:
             - containerPort: 9090
               name: proyectdevops  # updated port name
